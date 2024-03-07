@@ -1,0 +1,3 @@
+{"student_id": 2, "subjects": ["English", "Maths", "Science"], "scores": {"Maths": 9, "History": "11"}}
+{"student_id": 3, "subjects": ["English", "History", "Science"], "scores": {"Maths": "9.0", "History": "11.0"}}
+{"student_id": "2.0", "subjects": ["History", "Science", "Maths"], "scores": {"Maths": 9, "History": 11}}

@@ -1,0 +1,20 @@
+2022-05-12 07:56:54: serverConfig => {'port': 8080, 'enableSSL': False, 'sslPort': 8443, 'deployDir': '/Users/anujsingh/personal_project/automate_trades/python-deploy', 'logFileDir': '/Users/anujsingh/personal_project/automate_trades/python-deploy/logs'}
+2022-05-12 07:56:55: brokerAppConfig => {'broker': 'zerodha', 'clientID': 'KD7769', 'appKey': 'kow52o23c99g3qrs', 'appSecret': '6xx60p6qrbsygi63gijgoc7umbvmi9yp', 'redirectUrl': 'http://localhost:8080/apis/broker/login/zerodha'}
+2022-05-12 07:56:56:  * Running on http://localhost:8080 (Press CTRL+C to quit)
+2022-05-12 07:56:56:  * Restarting with stat
+2022-05-12 07:58:28: serverConfig => {'port': 8080, 'enableSSL': False, 'sslPort': 8443, 'deployDir': '/Users/anujsingh/personal_project/automate_trades/python-deploy', 'logFileDir': '/Users/anujsingh/personal_project/automate_trades/python-deploy/logs'}
+2022-05-12 07:58:28: brokerAppConfig => {'broker': 'zerodha', 'clientID': 'KD7769', 'appKey': 'kow52o23c99g3qrs', 'appSecret': '6xx60p6qrbsygi63gijgoc7umbvmi9yp', 'redirectUrl': 'http://localhost:8080/apis/broker/login/zerodha'}
+2022-05-12 07:58:28:  * Running on http://localhost:8080/ (Press CTRL+C to quit)
+2022-05-12 07:58:28:  * Restarting with stat
+2022-05-12 07:58:28: serverConfig => {'port': 8080, 'enableSSL': False, 'sslPort': 8443, 'deployDir': '/Users/anujsingh/personal_project/automate_trades/python-deploy', 'logFileDir': '/Users/anujsingh/personal_project/automate_trades/python-deploy/logs'}
+2022-05-12 07:58:28: brokerAppConfig => {'broker': 'zerodha', 'clientID': 'KD7769', 'appKey': 'kow52o23c99g3qrs', 'appSecret': '6xx60p6qrbsygi63gijgoc7umbvmi9yp', 'redirectUrl': 'http://localhost:8080/apis/broker/login/zerodha'}
+2022-05-12 07:58:28:  * Debugger is active!
+2022-05-12 07:58:28:  * Debugger PIN: 524-126-944
+2022-05-12 07:58:42: 127.0.0.1 - - [12/May/2022 07:58:42] "GET / HTTP/1.1" 200 -
+2022-05-12 07:58:43: 127.0.0.1 - - [12/May/2022 07:58:43] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+2022-05-12 07:58:43: 127.0.0.1 - - [12/May/2022 07:58:43] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+2022-05-12 07:58:43: 127.0.0.1 - - [12/May/2022 07:58:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-05-12 08:40:34: handleBrokerLogin app_key kow52o23c99g3qrs
+2022-05-12 08:40:34: ==> ZerodhaLogin .args => ImmutableMultiDict([])
+2022-05-12 08:40:34: Redirecting to zerodha login url = https://kite.trade/connect/login?api_key=kow52o23c99g3qrs&v=3
+2022-05-12 08:40:34: 127.0.0.1 - - [12/May/2022 08:40:34] "[32mGET /apis/broker/login/zerodha HTTP/1.1[0m" 302 -

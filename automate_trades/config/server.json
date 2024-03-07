@@ -1,0 +1,7 @@
+{
+    "port": 8080,
+    "enableSSL": false,
+    "sslPort": 8443,
+    "deployDir": "/Users/anujsingh/personal_project/automate_trades/python-deploy",
+    "logFileDir": "/Users/anujsingh/personal_project/automate_trades/python-deploy/logs"
+}
